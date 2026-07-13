@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Suds",
+    "slug": "suds-laundry-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#EAF4F4"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#EAF4F4"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
